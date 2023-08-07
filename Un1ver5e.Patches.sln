@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Un1ver5e.Patches", "Un1ver5e.Patches\Un1ver5e.Patches.csproj", "{80ADCD7E-6246-444D-9770-A8A21CBC2F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Un1ver5e.Patches.Tests", "Un1ver5e.Patches.Tests\Un1ver5e.Patches.Tests.csproj", "{17F9224E-92FF-4BA7-9F2E-4AC57929B22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Un1ver5e.Patches.Generator", "Un1ver5e.Patches.Generator\Un1ver5e.Patches.Generator.csproj", "{8BA72AB5-D2C3-469B-8BD3-5C9BE90D69D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80ADCD7E-6246-444D-9770-A8A21CBC2F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ADCD7E-6246-444D-9770-A8A21CBC2F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ADCD7E-6246-444D-9770-A8A21CBC2F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ADCD7E-6246-444D-9770-A8A21CBC2F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F9224E-92FF-4BA7-9F2E-4AC57929B22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F9224E-92FF-4BA7-9F2E-4AC57929B22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F9224E-92FF-4BA7-9F2E-4AC57929B22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F9224E-92FF-4BA7-9F2E-4AC57929B22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA72AB5-D2C3-469B-8BD3-5C9BE90D69D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA72AB5-D2C3-469B-8BD3-5C9BE90D69D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA72AB5-D2C3-469B-8BD3-5C9BE90D69D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA72AB5-D2C3-469B-8BD3-5C9BE90D69D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
